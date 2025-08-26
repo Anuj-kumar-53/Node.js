@@ -1,0 +1,11 @@
+function now() { [native code] }, GET, /api/users
+1742320059132, GET, /api/users
+
+1742472438175:::1 GET: /
+1742472471917:::1 GET: /user
+1742472518891:::1 GET: /user
+1742472678258:::1 POST: /user
+1742472802638:::1 POST: /user
+1742472819224:::1 GET: /user
+1742472864197:::1 PATCH: /user/67dc066221456324d9971feb
+1742472873941:::1 GET: /user

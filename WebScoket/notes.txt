@@ -1,0 +1,7 @@
+WebSocket helps us to stay connect with the server and whenever there is a message we can send to the client
+we build the connect by sending the htpp which is converted in websocket by an Upgrade 
+and we stay connect to the server until we close manually..'
+it become a full duplex connect(bidirectional) and send and recieve the message together
+
+
+//Socket.Io is used 
